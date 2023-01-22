@@ -19,7 +19,7 @@
 
 ### Testing Documentation
 * [Bug Reports](https://github.com/Rusllana/Bug_Reports)
-* Checklists
-* Test cases
-* Postman Colections
-* SQL Queries
+* [Checklists](https://github.com/Rusllana/Checklists)
+* [Test Cases](https://github.com/Rusllana/Test_Cases)
+* [Postman Colections](https://github.com/Rusllana/Postman_Colections)
+* [SQL Queries](https://github.com/Rusllana/SQL_Queries)
