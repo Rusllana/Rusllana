@@ -18,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS-595858?style=flat&logo=css)
 
 ### Testing Documentation
-* [![Bug Reports](https://github.com/Rusllana/Bug_Reports)](https://github.com/Rusllana/Bug_Reports)
+* [Bug Reports](https://github.com/Rusllana/Bug_Reports)
 * Checklists
 * Test cases
 * Postman Colections
