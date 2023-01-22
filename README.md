@@ -17,6 +17,9 @@
 ![HTML](https://img.shields.io/badge/HTML-595858?style=flat&logo=html)
 ![CSS](https://img.shields.io/badge/CSS-595858?style=flat&logo=css)
 
-
-
-Testing Documentation
+### Testing Documentation
+* [![Bug Reports](https://github.com/Rusllana/Bug_Reports)](https://github.com/Rusllana/Bug_Reports)
+* Checklists
+* Test cases
+* Postman Colections
+* SQL Queries
