@@ -20,6 +20,6 @@
 ### Testing Documentation
 * [Bug Reports](https://github.com/Rusllana/Bug_Reports)
 * [Checklists](https://github.com/Rusllana/Checklists)
-* [Test Cases](https://github.com/Rusllana/Test_Cases)
+* [Test Cases](https://drive.google.com/drive/folders/1xjjaPbq15QpNN1EsKRy9066mvalZKE0O)
 * [Postman Colections](https://github.com/Rusllana/Postman_Colections)
 * [SQL Queries](https://github.com/Rusllana/SQL_Queries)
