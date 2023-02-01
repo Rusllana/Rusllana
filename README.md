@@ -19,7 +19,7 @@
 
 ### Testing Documentation
 * [Bug Reports](https://github.com/Rusllana/Bug_Reports)
-* [Checklists](https://github.com/Rusllana/Checklists)
-* [Test Cases](https://drive.google.com/drive/folders/1xjjaPbq15QpNN1EsKRy9066mvalZKE0O)
+* [Checklists](https://docs.google.com/spreadsheets/d/1GelNfH3olQQEerU36kHV4iliVkGgrSWyGID1eJo8PQQ/edit#gid=1751334729)
+* [Test Cases](https://docs.google.com/spreadsheets/d/1lrPAWxRQ3wK9ULgnC_CqRkm1_bAKKC6nLJWK4BhiKMI/edit#gid=151218360)
 * [Postman Colections](https://github.com/Rusllana/Postman_Colections)
 * [SQL Queries](https://github.com/Rusllana/SQL_Queries)
