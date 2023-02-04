@@ -18,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS-595858?style=flat&logo=css)
 
 ### Testing Documentation
-* [Bug Reports](https://github.com/Rusllana/Bug_Reports)
+* [Bug Reports](https://docs.google.com/spreadsheets/d/1XACipTzytOpnzpWN8MzJuBQ3uP8u5AA9eMIkT0z5GdM/edit#gid=0)
 * [Checklists](https://docs.google.com/spreadsheets/d/1GelNfH3olQQEerU36kHV4iliVkGgrSWyGID1eJo8PQQ/edit#gid=1751334729)
 * [Test Cases](https://docs.google.com/spreadsheets/d/1lrPAWxRQ3wK9ULgnC_CqRkm1_bAKKC6nLJWK4BhiKMI/edit#gid=151218360)
 * [Postman Colections](https://github.com/Rusllana/Postman_Colections)
