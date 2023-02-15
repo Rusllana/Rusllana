@@ -19,5 +19,5 @@
 * [Bug Reports](https://docs.google.com/spreadsheets/d/1XACipTzytOpnzpWN8MzJuBQ3uP8u5AA9eMIkT0z5GdM/edit#gid=0)
 * [Checklists](https://docs.google.com/spreadsheets/d/1GelNfH3olQQEerU36kHV4iliVkGgrSWyGID1eJo8PQQ/edit#gid=1751334729)
 * [Test Cases](https://docs.google.com/spreadsheets/d/1lrPAWxRQ3wK9ULgnC_CqRkm1_bAKKC6nLJWK4BhiKMI/edit#gid=151218360)
-* [Postman Colections](https://github.com/Rusllana/Postman_Colections)
+* [Postman Collections](https://github.com/Rusllana/Postman_Colections)
 * [SQL Queries](https://docs.google.com/document/d/1I9HRy1BM1W1TbRjklLM0vEk_txUAah6TjxDZh6i29b8/edit)
